@@ -22,9 +22,6 @@
 ![Smart Sender Popup](screenshots/popup.png)
 *Manage associations and toggle auto-switching per message*
 
-![Auto Switching](screenshots/switching.gif)
-*Automatic sender switching in action*
-
 ## 🚀 Installation
 
 ### From Thunderbird Add-ons (Recommended)
